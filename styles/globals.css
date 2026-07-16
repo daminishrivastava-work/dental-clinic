@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+:root {
+  --background: #FAF4E8; /* Warm light cream background from screenshot */
+  --foreground: #4A3B2C; /* Rich deep coffee-bronze brown text */
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-primary: #4A3B2C; /* Deep bronze-brown primary */
+  --color-primary-foreground: #FAF4E8;
+  --color-secondary: #F2EAD9; /* Light sandy beige secondary button bg */
+  --color-secondary-foreground: #4A3B2C;
+  --color-accent: #C49B5E; /* Warm golden bronze accent */
+  --color-border: #EADFCB; /* Soft sand border */
+  --color-muted: #7A6A59;
+  --color-muted-light: #F4EDE1;
+  --color-card: #FFFFFF;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
