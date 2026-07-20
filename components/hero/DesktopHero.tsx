@@ -22,7 +22,7 @@ export function DesktopHero() {
 
   const stats = [
     { label: language === "en" ? "Experience" : "अनुभव", value: "16+ Years" },
-    { label: language === "en" ? "Happy Smiles" : "मुस्कुराते चेहरे", value: "10,000+" },
+    { label: language === "en" ? "Happy Smiles" : "मुस्कुराते चेहरे", value: "40,000+" },
     { label: language === "en" ? "Consultation Fee" : "परामर्श शुल्क", value: "₹200" },
     { label: language === "en" ? "Daily Hours" : "दैनिक समय", value: "8 Hours" },
   ]
