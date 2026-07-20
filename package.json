@@ -29,10 +29,7 @@
     "react": "19.2.4",
     "react-dom": "19.2.4",
     "react-hook-form": "^7.81.0",
-<<<<<<< HEAD
     "react-markdown": "^10.1.0",
-=======
->>>>>>> 7473025b3d3335fc59674e94f6a807049427e64b
     "shadcn": "^4.13.0",
     "tailwind-merge": "^3.6.0",
     "tw-animate-css": "^1.4.0",

@@ -15,30 +15,19 @@ export const translations = {
     },
     hero: {
       badge: "Premium Dental Care in Umaria",
-<<<<<<< HEAD
       title: "Archana Dental Clinic & Implant Center, Umaria",
       subtitle: "",
       description: "Experience world-class dental care with Dr. Anil Prajapati (BDS), backed by 16+ years of clinical experience. We are dedicated to providing advanced Implantology and Orthodontic dental care in a comfortable, patient-friendly environment.",
-=======
-      title: "Archana Dental Clinic",
-      subtitle: "& Implant Centre",
-      description: "Experience world-class dental treatments by Dr. Anil Prajapati (BDS) with over 16 years of expertise. We are dedicated to providing state-of-the-art implantology and dental care in a comfortable environment.",
->>>>>>> 7473025b3d3335fc59674e94f6a807049427e64b
       stats: {
         experience: "16+ Years Experience",
         patients: "10k+ Happy Smiles",
         rating: "4.9/5 Patient Rating",
       },
-<<<<<<< HEAD
       ctaPrimary: "Book an Appointment – Physical Consultation / Video Consultation (VC)",
-=======
-      ctaPrimary: "Book Appointment",
->>>>>>> 7473025b3d3335fc59674e94f6a807049427e64b
       ctaSecondary: "WhatsApp Coordinator",
     },
     services: {
       badge: "Treatments & Services",
-<<<<<<< HEAD
       title: "Comprehensive Dental Care Solutions",
       description: "Our clinic is equipped with modern technology to perform advanced dental procedures with precision, safety, and compassionate care.",
       items: [
@@ -78,65 +67,6 @@ export const translations = {
           description: "Under applicable government welfare schemes.",
           highlight: "Care",
         }
-=======
-      title: "Comprehensive Dental Solutions",
-      description: "Our clinic is equipped with modern tools to perform advanced dental procedures with high precision and care.",
-      items: [
-        {
-          id: "rvg-xray",
-          title: "RVG Digital X-ray",
-          description: "Advanced low-radiation digital imaging for immediate and highly detailed diagnosis.",
-          highlight: "Digital Imaging",
-        },
-        {
-          id: "intraoral-scanner",
-          title: "Digital Intraoral Scanner & Camera",
-          description: "Precise 3D mouth visualization and high-definition photography of teeth structure.",
-          highlight: "Advanced 3D",
-        },
-        {
-          id: "dental-implants",
-          title: "Dental Implants",
-          description: "Permanent replacement of missing teeth using premium implants, fixed crowns, bridges, and dentures.",
-          highlight: "Speciality",
-        },
-        {
-          id: "rct",
-          title: "Root Canal Treatment (RCT)",
-          description: "Nerve treatments performed with advanced rotary Endomotor systems to save damaged teeth painlessly.",
-          highlight: "Advanced Care",
-        },
-        {
-          id: "orthodontic-braces",
-          title: "Orthodontic Braces",
-          description: "Professional alignment of crooked or misaligned teeth using high-quality modern wiring techniques.",
-          highlight: "Aesthetics",
-        },
-        {
-          id: "pyorrhea-periodontitis",
-          title: "Pyorrhea & Gum Treatment",
-          description: "Advanced gum care to stop bleeding, bad breath, continuous pus discharge, and save loose teeth.",
-          highlight: "Gum Health",
-        },
-        {
-          id: "dissimpaction",
-          title: "Dissimpaction & Jaw Surgery",
-          description: "Surgical removal of impacted, crooked, or wisdom teeth embedded deep within the jawbone.",
-          highlight: "Surgical",
-        },
-        {
-          id: "mandible-fracture",
-          title: "Mandible Fracture Care",
-          description: "Specialized clinical diagnosis and treatment/fixation for broken or fractured jawbones.",
-          highlight: "Trauma Care",
-        },
-        {
-          id: "composite-restoration",
-          title: "Composite Restoration",
-          description: "Natural tooth-colored fillings for decayed teeth cured using advanced laser light technology.",
-          highlight: "Cosmetic",
-        },
->>>>>>> 7473025b3d3335fc59674e94f6a807049427e64b
       ],
     },
     about: {
@@ -146,11 +76,7 @@ export const translations = {
       speciality: "Bachelor of Dental Surgery, Dental Implantology",
       consultType: "Consultation Formats: Physical Visit / Video Consult (VC)",
       fees: "Consultation Fee: ₹200",
-<<<<<<< HEAD
       description: "Dr. Anil Prajapati is a highly skilled Orthodontist and Implantologist based in Umaria. With over 16 years of extensive clinical experience, he has helped nearly half a million people achieve healthier smiles through patient-centered care and advanced digital diagnostics.",
-=======
-      description: "Dr. Anil Prajapati is a highly accomplished dental surgeon and implantologist based in Umaria. With a rich clinical history of 16 years, he has successfully delivered healthy smiles through meticulous patient-centric treatment and advanced digital diagnostics.",
->>>>>>> 7473025b3d3335fc59674e94f6a807049427e64b
       timings: "Timings: 10:00 AM - 2:00 PM | 4:00 PM - 8:00 PM",
       viewServicesScan: "Official Treatment Catalog",
       scanSubtitle: "View the clinic's printed list of specialized services.",
@@ -233,11 +159,7 @@ export const translations = {
       addressLabel: "Clinic Address",
       addressValue: "Near Krishi Upaj Mandi Petrol pump, Rewa Road, Fazilganj, Umaria, District Umaria, MP - 484661",
       phoneLabel: "Phone Numbers",
-<<<<<<< HEAD
       phoneDoctor: "Reception: +91 9301957509",
-=======
-      phoneDoctor: "Doctor: +91 9131022272",
->>>>>>> 7473025b3d3335fc59674e94f6a807049427e64b
       phoneClinic: "Clinic: +91 9039112260",
       emailLabel: "Email Address",
       emailValue: "drakprajapati85@gmail.com",
@@ -281,25 +203,15 @@ export const translations = {
     },
     hero: {
       badge: "उमरिया में प्रीमियम दंत चिकित्सा",
-<<<<<<< HEAD
       title: "अर्चना डेंटल क्लीनिक & इंप्लांट सेंटर उमरिया",
       subtitle: "",
       description: "16 से अधिक वर्षों के अनुभव के साथ डॉ. अनिल प्रजापति (BDS) द्वारा विश्व स्तरीय दंत चिकित्सा का अनुभव करें। हम एक आरामदायक वातावरण में अत्याधुनिक इंप्लांटॉलॉजी और ऑर्थोडोंटिक दंत चिकित्सा प्रदान करने के लिए समर्पित हैं।",
-=======
-      title: "अर्चना डेंटल क्लीनिक",
-      subtitle: "& इंप्लांट सेंटर",
-      description: "16 से अधिक वर्षों के अनुभव के साथ डॉ. अनिल प्रजापति (BDS) द्वारा विश्व स्तरीय दंत चिकित्सा का अनुभव करें। हम एक आरामदायक वातावरण में अत्याधुनिक इंप्लांटोलॉजी और दंत चिकित्सा प्रदान करने के लिए समर्पित हैं।",
->>>>>>> 7473025b3d3335fc59674e94f6a807049427e64b
       stats: {
         experience: "16+ वर्ष का अनुभव",
         patients: "10k+ मुस्कुराते चेहरे",
         rating: "4.9/5 मरीज़ रेटिंग",
       },
-<<<<<<< HEAD
       ctaPrimary: "अपॉइंटमेंट बुक करें-फिजिकल/ वीसी",
-=======
-      ctaPrimary: "अपॉइंटमेंट बुक करें",
->>>>>>> 7473025b3d3335fc59674e94f6a807049427e64b
       ctaSecondary: "व्हाट्सएप कॉर्डिनेटर",
     },
     services: {
@@ -308,7 +220,6 @@ export const translations = {
       description: "हमारा क्लीनिक उच्च सटीकता और देखभाल के साथ उन्नत दंत प्रक्रियाओं को करने के लिए आधुनिक उपकरणों से लैस है।",
       items: [
         {
-<<<<<<< HEAD
           id: "rct",
           title: "एंडोमोटर - रूट कैनाल ट्रीटमेंट",
           description: "",
@@ -344,61 +255,6 @@ export const translations = {
           description: "सरकारी योजनाओं के तहत।",
           highlight: "Care",
         }
-=======
-          id: "rvg-xray",
-          title: "RVG डिजिटल एक्स-रे",
-          description: "त्वरित और अत्यधिक विस्तृत निदान के लिए उन्नत कम विकिरण वाली डिजिटल इमेजिंग।",
-          highlight: "डिजिटल इमेजिंग",
-        },
-        {
-          id: "intraoral-scanner",
-          title: "डिजिटल इंट्राओरल स्कैनर और कैमरा",
-          description: "दांतों की संरचना का सटीक 3D विज़ुअलाइज़ेशन और हाई-डेफिनिशन फोटोग्राफी।",
-          highlight: "उन्नत 3D",
-        },
-        {
-          id: "dental-implants",
-          title: "डेंटल इंप्लांट (फिक्स दाँत कैप एवं ब्रिज)",
-          description: "प्रीमियम इम्प्लांट्स, फिक्स क्राउन, ब्रिज और बत्तीसी के साथ टूटे या गायब दांतों का स्थायी प्रतिस्थापन।",
-          highlight: "विशेषज्ञता",
-        },
-        {
-          id: "rct",
-          title: "रूट कैनाल ट्रीटमेंट (नसों का इलाज)",
-          description: "अत्याधुनिक रोटरी एंडोमोटर सिस्टम का उपयोग करके नसों का दर्द रहित इलाज, जिससे दांतों को बचाया जाता है।",
-          highlight: "उन्नत उपचार",
-        },
-        {
-          id: "orthodontic-braces",
-          title: "ऑर्थोडॉन्टिक ब्रेसेस (टेढ़े मेढ़े दाँतों को सीधा करना)",
-          description: "आधुनिक वायरिंग तकनीकों द्वारा टेढ़े-मेढ़े या आड़े-तिरछे दांतों का सीधा व सुंदर संरेखण।",
-          highlight: "सौंदर्यशास्त्र",
-        },
-        {
-          id: "pyorrhea-periodontitis",
-          title: "पायरिया का इलाज",
-          description: "मसूड़ों से खून आना, बदबू, मवाद का लगातार बहना रोकना और हिलते दांतों को बचाने के लिए उन्नत मसूड़ों की देखभाल।",
-          highlight: "मसूड़ों का स्वास्थ्य",
-        },
-        {
-          id: "dissimpaction",
-          title: "डिसइम्पैक्शन (आड़े-तिरछे दांतों की सर्जरी)",
-          description: "जबड़े की हड्डी के भीतर गहरे फंसे हुए आड़े-तिरछे या अक्ल दाढ़ (विजडम टूथ) को सर्जरी द्वारा निकालना।",
-          highlight: "सर्जिकल",
-        },
-        {
-          id: "mandible-fracture",
-          title: "मैंडिबल फ्रैक्चर (जबड़े की हड्डी का इलाज)",
-          description: "जबड़े की टूटी हुई हड्डी के उपचार, संरेखण और फिक्सेशन के लिए विशेष नैदानिक प्रक्रियाएं।",
-          highlight: "आघात देखभाल",
-        },
-        {
-          id: "composite-restoration",
-          title: "कम्पोजिट रेस्टोरेशन (टूथ कलर फिलिंग)",
-          description: "कीड़े लगे दांतों में उन्नत लेज़र लाइट मशीनों द्वारा दांतों के प्राकृतिक रंग का कम्पोजिट मसाला भरना।",
-          highlight: "कॉस्मेटिक",
-        },
->>>>>>> 7473025b3d3335fc59674e94f6a807049427e64b
       ],
     },
     about: {
@@ -408,11 +264,7 @@ export const translations = {
       speciality: "बैचलर ऑफ डेंटल सर्जरी (BDS), डेंटल इम्प्लांटोलॉजी",
       consultType: "परामर्श के प्रकार: क्लीनिक विजिट (शारीरिक रूप से) / वीडियो कंसल्टेशन (VC)",
       fees: "परामर्श शुल्क: ₹200",
-<<<<<<< HEAD
       description: "डॉ. अनिल प्रजापति उमरिया में स्थित एक अत्यंत कुशल दंत चिकित्सक ऑर्थोडोंटिक्स और इम्प्लांटोलॉजिस्ट हैं। 16 वर्षों के समृद्ध नैदानिक इतिहास के साथ, उन्होंने सावधानी पूर्वक मरीज-केंद्रित उपचार और उन्नत डिजिटल डायग्नोस्टिक्स के माध्यम से करीब आधे लाख लोगों को स्वस्थ मुस्कान दी है।",
-=======
-      description: "डॉ. अनिल प्रजापति उमरिया में स्थित एक अत्यंत कुशल दंत चिकित्सक और इम्प्लांटोलॉजिस्ट हैं। 16 वर्षों के समृद्ध नैदानिक इतिहास के साथ, उन्होंने सावधानीपूर्वक मरीज-केंद्रित उपचार और उन्नत डिजिटल डायग्नोस्टिक्स के माध्यम से हजारों लोगों को स्वस्थ मुस्कान दी है।",
->>>>>>> 7473025b3d3335fc59674e94f6a807049427e64b
       timings: "समय: सुबह 10:00 - दोपहर 2:00 | शाम 4:00 - रात 8:00",
       viewServicesScan: "आधिकारिक उपचार सूची",
       scanSubtitle: "क्लीनिक की विशेष सेवाओं की प्रिंटेड सूची देखें।",
@@ -495,11 +347,7 @@ export const translations = {
       addressLabel: "क्लीनिक का पता",
       addressValue: "कृषि उपज मंडी पेट्रोल पंप के पास, रीवा रोड, फाजिलगंज, उमरिया, जिला उमरिया, मध्य प्रदेश - 484661",
       phoneLabel: "मोबाइल नंबर",
-<<<<<<< HEAD
       phoneDoctor: "Reception: +91 9301957509",
-=======
-      phoneDoctor: "डॉक्टर: +91 9131022272",
->>>>>>> 7473025b3d3335fc59674e94f6a807049427e64b
       phoneClinic: "क्लीनिक: +91 9039112260",
       emailLabel: "ईमेल आईडी",
       emailValue: "drakprajapati85@gmail.com",
@@ -530,7 +378,6 @@ export const translations = {
 }
 
 export const nearbyLocalities = [
-<<<<<<< HEAD
   { id: 1, en: "SBI Kiosk Bank (Lalit)", hi: "एसबीआई कियोस्क बैंक (ललित)" },
   { id: 2, en: "Krishi Upaj Mandi (Agricultural Produce Market)", hi: "कृषि उपज मंडी" },
   { id: 3, en: "Chaupati", hi: "चौपाटी" },
@@ -542,16 +389,4 @@ export const nearbyLocalities = [
   { id: 9, en: "KGN Travels / Umaria Motors", hi: "के.जी.एन. ट्रेवल्स / उमरिया मोटर्स" },
   { id: 10, en: "Sony Tea Stall", hi: "सोनी टी स्टॉल" },
   { id: 11, en: "Fazilganj", hi: "फजिलगंज" },
-=======
-  { id: 1, en: "Krishi Upaj Mandi", hi: "कृषि उपज मंडी" },
-  { id: 2, en: "Chaupati", hi: "चौपाटी" },
-  { id: 3, en: "Petrol Pump (near Dist Court)", hi: "पेट्रोल पंप (जिला न्यायालय के पास)" },
-  { id: 4, en: "District Court Umaria", hi: "जिला न्यायालय उमरिया" },
-  { id: 5, en: "Laxminarayan Mandir", hi: "लक्ष्मीनारायण मंदिर" },
-  { id: 6, en: "Collectrate Colony Umaria", hi: "कलेक्ट्रेट कॉलोनी उमरिया" },
-  { id: 7, en: "Naman Medical Store", hi: "नमन मेडिकल स्टोर" },
-  { id: 8, en: "KGN Travels / Umaria Motors", hi: "के.जी.एन. ट्रेवल्स / उमरिया मोटर्स" },
-  { id: 9, en: "Sony Tea Stall", hi: "सोनी टी स्टॉल" },
-  { id: 10, en: "Fazilganj", hi: "फाजिलगंज" },
->>>>>>> 7473025b3d3335fc59674e94f6a807049427e64b
 ]

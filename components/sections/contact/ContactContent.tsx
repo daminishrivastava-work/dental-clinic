@@ -140,11 +140,7 @@ export function ContactContent({ desktop }: { desktop?: boolean }) {
                   className="flex items-center gap-2 p-2 rounded-xl bg-muted/30 border border-border/50 text-xs font-semibold text-muted-foreground hover:text-foreground hover:bg-primary/5 hover:border-primary/20 transition-all"
                 >
                   <div className="h-2 w-2 rounded-full bg-primary/60" />
-<<<<<<< HEAD
                   <span className="truncate" dangerouslySetInnerHTML={{ __html: language === "en" ? loc.en : loc.hi }} />
-=======
-                  <span className="truncate">{language === "en" ? loc.en : loc.hi}</span>
->>>>>>> 7473025b3d3335fc59674e94f6a807049427e64b
                 </div>
               ))}
             </div>

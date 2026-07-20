@@ -79,11 +79,7 @@ export function ServiceCard({ service, index }: ServiceCardProps) {
           </div>
 
           <div className="space-y-3">
-<<<<<<< HEAD
             <h3 className={`text-xl font-bold tracking-tight ${theme.text}`}><span dangerouslySetInnerHTML={{ __html: service.title }} /></h3>
-=======
-            <h3 className={`text-xl font-bold tracking-tight ${theme.text}`}>{service.title}</h3>
->>>>>>> 7473025b3d3335fc59674e94f6a807049427e64b
             <p className={`leading-relaxed text-sm ${theme.mutedText}`}>
               {service.description}
             </p>
