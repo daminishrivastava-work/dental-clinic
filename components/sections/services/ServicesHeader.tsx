@@ -29,7 +29,11 @@ export function ServicesHeader() {
         transition={{ duration: 0.5, delay: 0.1 }}
         className="text-3xl font-bold tracking-tight sm:text-4xl md:text-5xl text-foreground"
       >
+<<<<<<< HEAD
+        <span dangerouslySetInnerHTML={{ __html: t.title }} />
+=======
         {t.title}
+>>>>>>> 7473025b3d3335fc59674e94f6a807049427e64b
       </motion.h2>
       
       <motion.p 
@@ -39,7 +43,11 @@ export function ServicesHeader() {
         transition={{ duration: 0.5, delay: 0.2 }}
         className="max-w-2xl text-lg text-muted-foreground mt-2"
       >
+<<<<<<< HEAD
+        <span dangerouslySetInnerHTML={{ __html: t.description }} />
+=======
         {t.description}
+>>>>>>> 7473025b3d3335fc59674e94f6a807049427e64b
       </motion.p>
     </div>
   )

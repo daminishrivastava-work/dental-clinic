@@ -15,19 +15,70 @@ export const translations = {
     },
     hero: {
       badge: "Premium Dental Care in Umaria",
+<<<<<<< HEAD
+      title: "Archana Dental Clinic & Implant Center, Umaria",
+      subtitle: "",
+      description: "Experience world-class dental care with Dr. Anil Prajapati (BDS), backed by 16+ years of clinical experience. We are dedicated to providing advanced Implantology and Orthodontic dental care in a comfortable, patient-friendly environment.",
+=======
       title: "Archana Dental Clinic",
       subtitle: "& Implant Centre",
       description: "Experience world-class dental treatments by Dr. Anil Prajapati (BDS) with over 16 years of expertise. We are dedicated to providing state-of-the-art implantology and dental care in a comfortable environment.",
+>>>>>>> 7473025b3d3335fc59674e94f6a807049427e64b
       stats: {
         experience: "16+ Years Experience",
         patients: "10k+ Happy Smiles",
         rating: "4.9/5 Patient Rating",
       },
+<<<<<<< HEAD
+      ctaPrimary: "Book an Appointment – Physical Consultation / Video Consultation (VC)",
+=======
       ctaPrimary: "Book Appointment",
+>>>>>>> 7473025b3d3335fc59674e94f6a807049427e64b
       ctaSecondary: "WhatsApp Coordinator",
     },
     services: {
       badge: "Treatments & Services",
+<<<<<<< HEAD
+      title: "Comprehensive Dental Care Solutions",
+      description: "Our clinic is equipped with modern technology to perform advanced dental procedures with precision, safety, and compassionate care.",
+      items: [
+        {
+          id: "rct",
+          title: "Endomotor-Assisted Root Canal Treatment (RCT)",
+          description: "",
+          highlight: "Advanced Care",
+        },
+        {
+          id: "braces",
+          title: "Aligners / Orthodontic Braces",
+          description: "",
+          highlight: "Aesthetics",
+        },
+        {
+          id: "cyst",
+          title: "Cyst & Tumor Surgery",
+          description: "Minor and major surgical procedures for cysts and tumors affecting the tooth roots, gums, tongue, lips, and cheeks.",
+          highlight: "Surgical",
+        },
+        {
+          id: "cancer-detection",
+          title: "Early Detection of Oral Cancer",
+          description: "",
+          highlight: "Diagnosis",
+        },
+        {
+          id: "mouth-opening",
+          title: "Treatment for Long-Standing Restricted Mouth Opening, Chronic Mouth Ulcers, and Pre-Cancerous Oral Conditions",
+          description: "",
+          highlight: "Treatment",
+        },
+        {
+          id: "free-cancer",
+          title: "Free Treatment for Eligible Cancer Patients",
+          description: "Under applicable government welfare schemes.",
+          highlight: "Care",
+        }
+=======
       title: "Comprehensive Dental Solutions",
       description: "Our clinic is equipped with modern tools to perform advanced dental procedures with high precision and care.",
       items: [
@@ -85,6 +136,7 @@ export const translations = {
           description: "Natural tooth-colored fillings for decayed teeth cured using advanced laser light technology.",
           highlight: "Cosmetic",
         },
+>>>>>>> 7473025b3d3335fc59674e94f6a807049427e64b
       ],
     },
     about: {
@@ -94,7 +146,11 @@ export const translations = {
       speciality: "Bachelor of Dental Surgery, Dental Implantology",
       consultType: "Consultation Formats: Physical Visit / Video Consult (VC)",
       fees: "Consultation Fee: ₹200",
+<<<<<<< HEAD
+      description: "Dr. Anil Prajapati is a highly skilled Orthodontist and Implantologist based in Umaria. With over 16 years of extensive clinical experience, he has helped nearly half a million people achieve healthier smiles through patient-centered care and advanced digital diagnostics.",
+=======
       description: "Dr. Anil Prajapati is a highly accomplished dental surgeon and implantologist based in Umaria. With a rich clinical history of 16 years, he has successfully delivered healthy smiles through meticulous patient-centric treatment and advanced digital diagnostics.",
+>>>>>>> 7473025b3d3335fc59674e94f6a807049427e64b
       timings: "Timings: 10:00 AM - 2:00 PM | 4:00 PM - 8:00 PM",
       viewServicesScan: "Official Treatment Catalog",
       scanSubtitle: "View the clinic's printed list of specialized services.",
@@ -177,7 +233,11 @@ export const translations = {
       addressLabel: "Clinic Address",
       addressValue: "Near Krishi Upaj Mandi Petrol pump, Rewa Road, Fazilganj, Umaria, District Umaria, MP - 484661",
       phoneLabel: "Phone Numbers",
+<<<<<<< HEAD
+      phoneDoctor: "Reception: +91 9301957509",
+=======
       phoneDoctor: "Doctor: +91 9131022272",
+>>>>>>> 7473025b3d3335fc59674e94f6a807049427e64b
       phoneClinic: "Clinic: +91 9039112260",
       emailLabel: "Email Address",
       emailValue: "drakprajapati85@gmail.com",
@@ -221,15 +281,25 @@ export const translations = {
     },
     hero: {
       badge: "उमरिया में प्रीमियम दंत चिकित्सा",
+<<<<<<< HEAD
+      title: "अर्चना डेंटल क्लीनिक & इंप्लांट सेंटर उमरिया",
+      subtitle: "",
+      description: "16 से अधिक वर्षों के अनुभव के साथ डॉ. अनिल प्रजापति (BDS) द्वारा विश्व स्तरीय दंत चिकित्सा का अनुभव करें। हम एक आरामदायक वातावरण में अत्याधुनिक इंप्लांटॉलॉजी और ऑर्थोडोंटिक दंत चिकित्सा प्रदान करने के लिए समर्पित हैं।",
+=======
       title: "अर्चना डेंटल क्लीनिक",
       subtitle: "& इंप्लांट सेंटर",
       description: "16 से अधिक वर्षों के अनुभव के साथ डॉ. अनिल प्रजापति (BDS) द्वारा विश्व स्तरीय दंत चिकित्सा का अनुभव करें। हम एक आरामदायक वातावरण में अत्याधुनिक इंप्लांटोलॉजी और दंत चिकित्सा प्रदान करने के लिए समर्पित हैं।",
+>>>>>>> 7473025b3d3335fc59674e94f6a807049427e64b
       stats: {
         experience: "16+ वर्ष का अनुभव",
         patients: "10k+ मुस्कुराते चेहरे",
         rating: "4.9/5 मरीज़ रेटिंग",
       },
+<<<<<<< HEAD
+      ctaPrimary: "अपॉइंटमेंट बुक करें-फिजिकल/ वीसी",
+=======
       ctaPrimary: "अपॉइंटमेंट बुक करें",
+>>>>>>> 7473025b3d3335fc59674e94f6a807049427e64b
       ctaSecondary: "व्हाट्सएप कॉर्डिनेटर",
     },
     services: {
@@ -238,6 +308,43 @@ export const translations = {
       description: "हमारा क्लीनिक उच्च सटीकता और देखभाल के साथ उन्नत दंत प्रक्रियाओं को करने के लिए आधुनिक उपकरणों से लैस है।",
       items: [
         {
+<<<<<<< HEAD
+          id: "rct",
+          title: "एंडोमोटर - रूट कैनाल ट्रीटमेंट",
+          description: "",
+          highlight: "उन्नत उपचार",
+        },
+        {
+          id: "braces",
+          title: "अलाइनर/ ऑर्थोडोंटिक ब्रेसेस",
+          description: "",
+          highlight: "सौंदर्यशास्त्र",
+        },
+        {
+          id: "cyst",
+          title: "सिस्ट/ ट्यूमर ( छोटी बड़ी गाँठो की सर्जरी) - दाँतो की जड़ो में, मसूड़ों, जीभ, होंठ व गालों में छोटी बड़ी सर्जरी",
+          description: "",
+          highlight: "सर्जिकल",
+        },
+        {
+          id: "cancer-detection",
+          title: "कैंसर की पूर्वावस्था में पहचान",
+          description: "",
+          highlight: "निदान",
+        },
+        {
+          id: "mouth-opening",
+          title: "लंबे समय से मुंह का न खुलना व छालों का इलाज",
+          description: "",
+          highlight: "उपचार",
+        },
+        {
+          id: "free-cancer",
+          title: "कैंसर मरीजों के पात्र हितग्राहियों को निःशुल्क इलाज",
+          description: "सरकारी योजनाओं के तहत।",
+          highlight: "Care",
+        }
+=======
           id: "rvg-xray",
           title: "RVG डिजिटल एक्स-रे",
           description: "त्वरित और अत्यधिक विस्तृत निदान के लिए उन्नत कम विकिरण वाली डिजिटल इमेजिंग।",
@@ -291,6 +398,7 @@ export const translations = {
           description: "कीड़े लगे दांतों में उन्नत लेज़र लाइट मशीनों द्वारा दांतों के प्राकृतिक रंग का कम्पोजिट मसाला भरना।",
           highlight: "कॉस्मेटिक",
         },
+>>>>>>> 7473025b3d3335fc59674e94f6a807049427e64b
       ],
     },
     about: {
@@ -300,7 +408,11 @@ export const translations = {
       speciality: "बैचलर ऑफ डेंटल सर्जरी (BDS), डेंटल इम्प्लांटोलॉजी",
       consultType: "परामर्श के प्रकार: क्लीनिक विजिट (शारीरिक रूप से) / वीडियो कंसल्टेशन (VC)",
       fees: "परामर्श शुल्क: ₹200",
+<<<<<<< HEAD
+      description: "डॉ. अनिल प्रजापति उमरिया में स्थित एक अत्यंत कुशल दंत चिकित्सक ऑर्थोडोंटिक्स और इम्प्लांटोलॉजिस्ट हैं। 16 वर्षों के समृद्ध नैदानिक इतिहास के साथ, उन्होंने सावधानी पूर्वक मरीज-केंद्रित उपचार और उन्नत डिजिटल डायग्नोस्टिक्स के माध्यम से करीब आधे लाख लोगों को स्वस्थ मुस्कान दी है।",
+=======
       description: "डॉ. अनिल प्रजापति उमरिया में स्थित एक अत्यंत कुशल दंत चिकित्सक और इम्प्लांटोलॉजिस्ट हैं। 16 वर्षों के समृद्ध नैदानिक इतिहास के साथ, उन्होंने सावधानीपूर्वक मरीज-केंद्रित उपचार और उन्नत डिजिटल डायग्नोस्टिक्स के माध्यम से हजारों लोगों को स्वस्थ मुस्कान दी है।",
+>>>>>>> 7473025b3d3335fc59674e94f6a807049427e64b
       timings: "समय: सुबह 10:00 - दोपहर 2:00 | शाम 4:00 - रात 8:00",
       viewServicesScan: "आधिकारिक उपचार सूची",
       scanSubtitle: "क्लीनिक की विशेष सेवाओं की प्रिंटेड सूची देखें।",
@@ -383,7 +495,11 @@ export const translations = {
       addressLabel: "क्लीनिक का पता",
       addressValue: "कृषि उपज मंडी पेट्रोल पंप के पास, रीवा रोड, फाजिलगंज, उमरिया, जिला उमरिया, मध्य प्रदेश - 484661",
       phoneLabel: "मोबाइल नंबर",
+<<<<<<< HEAD
+      phoneDoctor: "Reception: +91 9301957509",
+=======
       phoneDoctor: "डॉक्टर: +91 9131022272",
+>>>>>>> 7473025b3d3335fc59674e94f6a807049427e64b
       phoneClinic: "क्लीनिक: +91 9039112260",
       emailLabel: "ईमेल आईडी",
       emailValue: "drakprajapati85@gmail.com",
@@ -414,6 +530,19 @@ export const translations = {
 }
 
 export const nearbyLocalities = [
+<<<<<<< HEAD
+  { id: 1, en: "SBI Kiosk Bank (Lalit)", hi: "एसबीआई कियोस्क बैंक (ललित)" },
+  { id: 2, en: "Krishi Upaj Mandi (Agricultural Produce Market)", hi: "कृषि उपज मंडी" },
+  { id: 3, en: "Chaupati", hi: "चौपाटी" },
+  { id: 4, en: "Petrol Pump (Near District Court)", hi: "पेट्रोल पंप (जिला न्यायालय के पास)" },
+  { id: 5, en: "District Court, Umaria", hi: "जिला न्यायालय उमरिया" },
+  { id: 6, en: "Lakshmi Narayan Temple", hi: "लक्ष्मीनारायण मंदिर" },
+  { id: 7, en: "Collectorate Colony, Umaria", hi: "कलेक्ट्रेट कॉलोनी उमरिया" },
+  { id: 8, en: "Naman Medical Store", hi: "नमन मेडिकल स्टोर" },
+  { id: 9, en: "KGN Travels / Umaria Motors", hi: "के.जी.एन. ट्रेवल्स / उमरिया मोटर्स" },
+  { id: 10, en: "Sony Tea Stall", hi: "सोनी टी स्टॉल" },
+  { id: 11, en: "Fazilganj", hi: "फजिलगंज" },
+=======
   { id: 1, en: "Krishi Upaj Mandi", hi: "कृषि उपज मंडी" },
   { id: 2, en: "Chaupati", hi: "चौपाटी" },
   { id: 3, en: "Petrol Pump (near Dist Court)", hi: "पेट्रोल पंप (जिला न्यायालय के पास)" },
@@ -424,4 +553,5 @@ export const nearbyLocalities = [
   { id: 8, en: "KGN Travels / Umaria Motors", hi: "के.जी.एन. ट्रेवल्स / उमरिया मोटर्स" },
   { id: 9, en: "Sony Tea Stall", hi: "सोनी टी स्टॉल" },
   { id: 10, en: "Fazilganj", hi: "फाजिलगंज" },
+>>>>>>> 7473025b3d3335fc59674e94f6a807049427e64b
 ]

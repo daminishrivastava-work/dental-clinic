@@ -55,8 +55,13 @@ export function DoctorsContent({ desktop }: { desktop?: boolean }) {
             viewport={{ once: true }}
             className="space-y-2"
           >
+<<<<<<< HEAD
+            <h3 className="text-3xl font-extrabold tracking-tight text-foreground"><span dangerouslySetInnerHTML={{ __html: t.title }} /></h3>
+            <p className="text-lg font-semibold text-primary"><span dangerouslySetInnerHTML={{ __html: t.subtitle }} /></p>
+=======
             <h3 className="text-3xl font-extrabold tracking-tight text-foreground">{t.title}</h3>
             <p className="text-lg font-semibold text-primary">{t.subtitle}</p>
+>>>>>>> 7473025b3d3335fc59674e94f6a807049427e64b
           </motion.div>
 
           <motion.p
@@ -66,7 +71,11 @@ export function DoctorsContent({ desktop }: { desktop?: boolean }) {
             transition={{ delay: 0.1 }}
             className="text-base text-muted-foreground leading-relaxed"
           >
+<<<<<<< HEAD
+            <span dangerouslySetInnerHTML={{ __html: t.description }} />
+=======
             {t.description}
+>>>>>>> 7473025b3d3335fc59674e94f6a807049427e64b
           </motion.p>
 
           <div className="h-px bg-border my-2" />
