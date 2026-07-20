@@ -17,8 +17,8 @@ export function DesktopHero() {
   const [isWhatsAppOpen, setIsWhatsAppOpen] = React.useState(false)
 
   const trustIndicators = language === "en"
-    ? ["16 Years Experience", "Modern Digital X-Ray", "Fixed Dental Implants", "Root Canal Specialist"]
-    : ["16 वर्षों का अनुभव", "मॉडर्न डिजिटल एक्स-रे", "फिक्स डेंटल इम्प्लांट्स", "रूट कैनाल स्पेशलिस्ट"]
+    ? ["16+ Years of Experience", "Fixed Dental Implants", "Intraoral 3D Scanner", "Aligners & Braces", "Digital X-Ray", "Root Canal Specialist"]
+    : ["16+ वर्षों का अनुभव", "फिक्स डेंटल इम्प्लांट्स", "इंट्राओरल 3D स्कैनर", "अलाइनर और ब्रेसेस", "डिजिटल एक्स-रे", "रूट कैनाल स्पेशलिस्ट"]
 
   const stats = [
     { label: language === "en" ? "Experience" : "अनुभव", value: "16+ Years" },

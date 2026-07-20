@@ -107,7 +107,7 @@ export function MobileDrawer({ isOpen, onClose }: MobileDrawerProps) {
                     />
                   </div>
                   <div className="flex flex-col text-left">
-                    <span className="text-[11px] font-bold text-foreground leading-none">Archana Dental</span>
+                    <span className="text-[11px] font-bold text-foreground leading-none">Archana Dental Clinic</span>
                     <span className="text-[8px] font-semibold text-primary tracking-wide uppercase leading-none mt-0.5">
                       & Implant Centre
                     </span>
