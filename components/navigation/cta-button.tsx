@@ -20,7 +20,7 @@ export function CTAButton({ variant = "primary", mobile, className, onWhatsAppCl
 
   const handleClick = (e: React.MouseEvent<HTMLButtonElement>) => {
     if (isPrimary) {
-      window.open("https://share.google/kCIajQfiVJnOM3Dif", "_blank")
+      window.open("https://calendar.app.google/fM6aH2NnGysJswex7", "_blank", "noopener,noreferrer")
     } else if (onWhatsAppClick) {
       onWhatsAppClick()
     } else if (props.onClick) {

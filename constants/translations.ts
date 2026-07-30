@@ -161,7 +161,7 @@ export const translations = {
         },
         {
           question: "Can I book appointments online?",
-          answer: "Yes, you can book online via Bajaj Finserv Health or chat with us on WhatsApp to set a slot.",
+          answer: "Yes, you can book online or chat with us on WhatsApp to set a slot.",
         }
       ],
     },
@@ -361,7 +361,7 @@ export const translations = {
         },
         {
           question: "क्या मैं ऑनलाइन अपॉइंटमेंट बुक कर सकता हूँ?",
-          answer: "हाँ, आप बजाज फिनसर्व हेल्थ के माध्यम से ऑनलाइन बुक कर सकते हैं या स्लॉट बुक करने के लिए व्हाट्सएप पर चैट कर सकते हैं।",
+          answer: "हाँ, आप ऑनलाइन बुक कर सकते हैं या स्लॉट बुक करने के लिए व्हाट्सएप पर चैट कर सकते हैं।",
         }
       ],
     },
