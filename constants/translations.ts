@@ -146,6 +146,22 @@ export const translations = {
         {
           question: "Doctor, I have this problem... how much will it cost? (Over WhatsApp/Call)",
           answer: "A proper clinical examination is required before suggesting a treatment plan or cost. It is not advisable to determine fees without a physical check-up.",
+        },
+        {
+          question: "What are the clinic timings?",
+          answer: "The clinic is open from 10:00 AM to 2:00 PM and from 4:00 PM to 8:00 PM.",
+        },
+        {
+          question: "How much is the consultation fee?",
+          answer: "The consultation fee is ₹200/- for both physical visits and video consultations.",
+        },
+        {
+          question: "Do you offer dental implants?",
+          answer: "Yes, Dr. Anil Prajapati specializes in Dental Implantology (fixed crowns, bridges, and full dentures).",
+        },
+        {
+          question: "Can I book appointments online?",
+          answer: "Yes, you can book online via Bajaj Finserv Health or chat with us on WhatsApp to set a slot.",
         }
       ],
     },
@@ -330,6 +346,22 @@ export const translations = {
         {
           question: "व्हाट्सएप/ कॉल पर— डॉ साब मुझे ये...समस्या है, कितना लगेगा??",
           answer: "पहले मरीज़ को देखकर समस्या समझी जाती है फिर अच्छी तरह से जाँच होती है इसके बाद ट्रीटमेंट प्लान किया जाता है। बिना जाँच किए, फ़ीस बताना न डॉ के लिए सही है और ना ही मरीज़ के लिए।",
+        },
+        {
+          question: "क्लीनिक खुलने का समय क्या है?",
+          answer: "क्लीनिक प्रतिदिन सुबह 10:00 बजे से दोपहर 2:00 बजे तक और शाम 4:00 बजे से रात 8:00 बजे तक खुलता है।",
+        },
+        {
+          question: "परामर्श शुल्क कितना है?",
+          answer: "क्लीनिक में व्यक्तिगत परामर्श और ऑनलाइन वीडियो परामर्श दोनों का शुल्क ₹200/- है।",
+        },
+        {
+          question: "क्या आप दंत प्रत्यारोपण (डेंटल इंप्लांट) करते हैं?",
+          answer: "हाँ, डॉ. अनिल प्रजापति डेंटल इम्प्लांटोलॉजी (फिक्स दांत कैप, ब्रिज और पूरी बत्तीसी) के विशेषज्ञ हैं।",
+        },
+        {
+          question: "क्या मैं ऑनलाइन अपॉइंटमेंट बुक कर सकता हूँ?",
+          answer: "हाँ, आप बजाज फिनसर्व हेल्थ के माध्यम से ऑनलाइन बुक कर सकते हैं या स्लॉट बुक करने के लिए व्हाट्सएप पर चैट कर सकते हैं।",
         }
       ],
     },
